@@ -10,7 +10,6 @@ import {
 } from '@ant-design/icons';
 
 import icon from '../images/cryptocurrency.png';
-import { identifier } from '@babel/types';
 
 const Navbar = () => {
   const [activeMenu, setActiveMenu] = useState(true);
